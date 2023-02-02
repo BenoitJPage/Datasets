@@ -1,0 +1,181 @@
+year,annee,jurisdiction,juridiction,iso,sub_sectors,sous_secteurs,indicators,indicateur,commodities,produits,unit_of_measure,unite_de_mesure,value
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,26
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,28153
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,236
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,261.25
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,103048.25
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,40486
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,62301
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,35077
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,91751
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,24816.75
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,8838.25
+2007,2007,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,291684.25
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,24
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,26031
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,192
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,216
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,89300
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,36291
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,52793
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,31946
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,85238.75
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,23251.25
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,8210
+2008,2008,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,263977
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,21
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,21899.75
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,347
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,368
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,76058.5
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,31657.25
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,44033.25
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,30679
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,74579.25
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,22300
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,7362.25
+2009,2009,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,232878.75
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,75.5
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,21418
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,269
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,344.75
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,81541.75
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,31018
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,50179
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,28964
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,71334.25
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,22994.25
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,7270
+2010,2010,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,233522.25
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,76
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,22761
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,360
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,436.25
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,76655
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,28776.75
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,47442
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,26170
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,70642.25
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,23492.75
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,7386
+2011,2011,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,227107
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,117
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,19885.25
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,267
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,384
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,76096.75
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,26459
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,49253.75
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,26389
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,70582.75
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,21875.75
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,6978
+2012,2012,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,221807.5
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,130
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,14166.25
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,304
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,434
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,79680.75
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,27446
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,51800.75
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,26418
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,63158
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,28607
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,7163.25
+2013,2013,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,219193.25
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,149
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,13545.75
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,301
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,450
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,79647
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,27044
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,52153
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,27715.75
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,64613
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,29412
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,5370
+2014,2014,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,220303.5
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,179.25
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,14389
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,276.5
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,456
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,80095
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,27137
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,52502
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,26871
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,65426
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,28975.25
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,5255
+2015,2015,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,221011.25
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,214
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,15482.75
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,240
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,453.75
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,82265
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,24618.25
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,57193
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,26997
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,62789.25
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,30546
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,6870
+2016,2016,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,224950
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,222
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,15298.25
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,199
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,421.25
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,84224.25
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,25146
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,58657
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,28522.25
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,63333
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,30350.25
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,6107
+2017,2017,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,227835
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,222
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,15782
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,199
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,420.75
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,82849.25
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,25877.75
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,56550.75
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,28020
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,62732
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,30618
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,5780
+2018,2018,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,225781.25
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,222
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,14908
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,190.75
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,413
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,79888
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,24229
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,55246
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,28325.25
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,62809
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,28572.75
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,5805
+2019,2019,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,220308
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,223
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,13271.25
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,191.75
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,415
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,70723
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,22375
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,47933
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,24922
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,60682
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,23902
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,5553.75
+2020,2020,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,199054
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Bioenergy and biofuels (from forestry biomass),Bioénergie et biocarburants (issus de la biomasse forestière),Number,Nombre,225.25
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Extraction,Extraction,Number,Nombre,13985.5
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Other bioproducts (from forestry biomass),Autre bioproduits (issus de la biomasse forestière),Number,Nombre,198.25
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary forestry bioproducts,Bioproduits forestiers primaires,Number,Nombre,423.5
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary manufacturing,Fabrication primaire,Number,Nombre,71884.5
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary pulp and paper products,Produits de pâte et papier primaires,Number,Nombre,22238.25
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Primary sawmill and wood products,Produit de scierie et de bois primaire,Number,Nombre,49222.75
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary paper products,Produits du papier secondaires,Number,Nombre,25023.5
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Secondary wood products and furniture,Produits du bois secondaires et meubles,Number,Nombre,68333.25
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services,Services,Number,Nombre,25432.75
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Services and custom work,Services et travail sur commande,Number,Nombre,5974.5
+2021,2021,Canada,Canada,CA,Forestry,Foresterie,Employment,Emplois,Total commodities,Total des produits,Number,Nombre,210634
