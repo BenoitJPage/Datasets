@@ -1,0 +1,785 @@
+﻿Year,Jurisdiction,Industry,"Nominal GDP (1,000 Dollars)","Real GDP (1,000 Dollars)"
+2010,Canada,All industries,1559053000,1709229500
+2010,Canada,Forestry and logging,3642000,4144917
+2010,Canada,Pulp and paper manufacturing,8583000,9807917
+2010,Canada,Wood product manufacturing,6813000,8823833
+2010,Alberta,All industries,261591000,264882800
+2010,Alberta,Forestry and logging,331300,345600
+2010,Alberta,Pulp and paper manufacturing,583100,732400
+2010,Alberta,Wood product manufacturing,912400,1243800
+2010,British Columbia,All industries,190873500,213022300
+2010,British Columbia,Forestry and logging,1499300,1930700
+2010,British Columbia,Pulp and paper manufacturing,1336700,1456400
+2010,British Columbia,Wood product manufacturing,2247300,2891300
+2010,Manitoba,All industries,49508300,56288500
+2010,Manitoba,Forestry and logging,22600,24900
+2010,Manitoba,Pulp and paper manufacturing,90500,140500
+2010,Manitoba,Wood product manufacturing,131900,149300
+2010,New Brunswick,All industries,27752900,31556500
+2010,New Brunswick,Forestry and logging,274200,255500
+2010,New Brunswick,Pulp and paper manufacturing,423300,426000
+2010,New Brunswick,Wood product manufacturing,274400,352300
+2010,Newfoundland and Labrador,All industries,27183000,29828500
+2010,Newfoundland and Labrador,Forestry and logging,52100,51700
+2010,Newfoundland and Labrador,Pulp and paper manufacturing,40100,78800
+2010,Newfoundland and Labrador,Wood product manufacturing,23300,24300
+2010,Northwest Territories,All industries,4677900,4448600
+2010,Northwest Territories,Forestry and logging,200,100
+2010,Northwest Territories,Pulp and paper manufacturing,0,0
+2010,Northwest Territories,Wood product manufacturing,0,0
+2010,Nova Scotia,All industries,33591000,37681800
+2010,Nova Scotia,Forestry and logging,88500,99000
+2010,Nova Scotia,Pulp and paper manufacturing,267300,170800
+2010,Nova Scotia,Wood product manufacturing,152700,129700
+2010,Nunavut,All industries,1890400,2121000
+2010,Nunavut,Forestry and logging,0,0
+2010,Nunavut,Pulp and paper manufacturing,0,0
+2010,Nunavut,Wood product manufacturing,0,0
+2010,Ontario,All industries,587627900,654982600
+2010,Ontario,Forestry and logging,416600,458900
+2010,Ontario,Pulp and paper manufacturing,2893800,3160900
+2010,Ontario,Wood product manufacturing,1104800,1414000
+2010,Prince Edward Island,All industries,4762200,5405200
+2010,Prince Edward Island,Forestry and logging,4300,4800
+2010,Prince Edward Island,Pulp and paper manufacturing,12900,21700
+2010,Prince Edward Island,Wood product manufacturing,6600,6800
+2010,Quebec,All industries,306664500,343887300
+2010,Quebec,Forestry and logging,907900,919300
+2010,Quebec,Pulp and paper manufacturing,2894300,3564100
+2010,Quebec,Wood product manufacturing,1859100,2464700
+2010,Saskatchewan,All industries,59948600,63970000
+2010,Saskatchewan,Forestry and logging,44200,44000
+2010,Saskatchewan,Pulp and paper manufacturing,41300,74400
+2010,Saskatchewan,Wood product manufacturing,99500,92900
+2010,Yukon,All industries,2227000,2470300
+2010,Yukon,Forestry and logging,600,1500
+2010,Yukon,Pulp and paper manufacturing,0,0
+2010,Yukon,Wood product manufacturing,900,1200
+2011,Canada,All industries,1662359000,1764972083
+2011,Canada,Forestry and logging,3850000,4560083
+2011,Canada,Pulp and paper manufacturing,8178000,9447083
+2011,Canada,Wood product manufacturing,6529000,9049083
+2011,Alberta,All industries,289920600,282733400
+2011,Alberta,Forestry and logging,369800,386000
+2011,Alberta,Pulp and paper manufacturing,578200,668200
+2011,Alberta,Wood product manufacturing,975200,1437200
+2011,British Columbia,All industries,202033200,219107400
+2011,British Columbia,Forestry and logging,1726500,2284300
+2011,British Columbia,Pulp and paper manufacturing,1540900,1502100
+2011,British Columbia,Wood product manufacturing,2140800,3051500
+2011,Manitoba,All industries,52461700,57583900
+2011,Manitoba,Forestry and logging,25700,27400
+2011,Manitoba,Pulp and paper manufacturing,85900,133300
+2011,Manitoba,Wood product manufacturing,127500,151100
+2011,New Brunswick,All industries,28908500,31624300
+2011,New Brunswick,Forestry and logging,258600,250200
+2011,New Brunswick,Pulp and paper manufacturing,407400,395400
+2011,New Brunswick,Wood product manufacturing,269900,374500
+2011,Newfoundland and Labrador,All industries,31614000,30710500
+2011,Newfoundland and Labrador,Forestry and logging,45000,54700
+2011,Newfoundland and Labrador,Pulp and paper manufacturing,45800,77900
+2011,Newfoundland and Labrador,Wood product manufacturing,21800,22600
+2011,Northwest Territories,All industries,4585000,4039300
+2011,Northwest Territories,Forestry and logging,300,100
+2011,Northwest Territories,Pulp and paper manufacturing,0,0
+2011,Northwest Territories,Wood product manufacturing,400,300
+2011,Nova Scotia,All industries,34263000,37799300
+2011,Nova Scotia,Forestry and logging,84500,94000
+2011,Nova Scotia,Pulp and paper manufacturing,200600,156100
+2011,Nova Scotia,Wood product manufacturing,104400,122100
+2011,Nunavut,All industries,2009200,2243800
+2011,Nunavut,Forestry and logging,0,0
+2011,Nunavut,Pulp and paper manufacturing,0,0
+2011,Nunavut,Wood product manufacturing,0,0
+2011,Ontario,All industries,616138500,672348000
+2011,Ontario,Forestry and logging,399500,476100
+2011,Ontario,Pulp and paper manufacturing,2649200,3029200
+2011,Ontario,Wood product manufacturing,990700,1342300
+2011,Prince Edward Island,All industries,4941800,5509400
+2011,Prince Edward Island,Forestry and logging,4000,5500
+2011,Prince Edward Island,Pulp and paper manufacturing,13500,23300
+2011,Prince Edward Island,Wood product manufacturing,4800,5600
+2011,Quebec,All industries,321047400,351206000
+2011,Quebec,Forestry and logging,901300,945000
+2011,Quebec,Pulp and paper manufacturing,2631000,3425700
+2011,Quebec,Wood product manufacturing,1789100,2411200
+2011,Saskatchewan,All industries,71287500,67403000
+2011,Saskatchewan,Forestry and logging,34100,47200
+2011,Saskatchewan,Pulp and paper manufacturing,24900,54000
+2011,Saskatchewan,Wood product manufacturing,103700,105000
+2011,Yukon,All industries,2398800,2591000
+2011,Yukon,Forestry and logging,600,1100
+2011,Yukon,Pulp and paper manufacturing,0,0
+2011,Yukon,Wood product manufacturing,1500,1900
+2012,Canada,All industries,1710440000,1797521500
+2012,Canada,Forestry and logging,3937000,4471917
+2012,Canada,Pulp and paper manufacturing,7466000,8882833
+2012,Canada,Wood product manufacturing,7402000,9401083
+2012,Alberta,All industries,302132000,294039200
+2012,Alberta,Forestry and logging,413600,407300
+2012,Alberta,Pulp and paper manufacturing,409000,627600
+2012,Alberta,Wood product manufacturing,1092400,1538600
+2012,British Columbia,All industries,206590600,224739900
+2012,British Columbia,Forestry and logging,1860100,2342800
+2012,British Columbia,Pulp and paper manufacturing,1299100,1366100
+2012,British Columbia,Wood product manufacturing,2579300,3268800
+2012,Manitoba,All industries,55676300,59308000
+2012,Manitoba,Forestry and logging,24700,25700
+2012,Manitoba,Pulp and paper manufacturing,82000,137800
+2012,Manitoba,Wood product manufacturing,161500,171500
+2012,New Brunswick,All industries,29117400,31248500
+2012,New Brunswick,Forestry and logging,266400,247200
+2012,New Brunswick,Pulp and paper manufacturing,397100,373100
+2012,New Brunswick,Wood product manufacturing,295200,360000
+2012,Newfoundland and Labrador,All industries,29977100,29341800
+2012,Newfoundland and Labrador,Forestry and logging,40200,48400
+2012,Newfoundland and Labrador,Pulp and paper manufacturing,44700,73900
+2012,Newfoundland and Labrador,Wood product manufacturing,22100,22800
+2012,Northwest Territories,All industries,4249900,4016600
+2012,Northwest Territories,Forestry and logging,0,0
+2012,Northwest Territories,Pulp and paper manufacturing,0,0
+2012,Northwest Territories,Wood product manufacturing,300,300
+2012,Nova Scotia,All industries,34477900,37443800
+2012,Nova Scotia,Forestry and logging,71000,81600
+2012,Nova Scotia,Pulp and paper manufacturing,84800,103300
+2012,Nova Scotia,Wood product manufacturing,106100,111200
+2012,Nunavut,All industries,2173100,2299600
+2012,Nunavut,Forestry and logging,0,0
+2012,Nunavut,Pulp and paper manufacturing,0,0
+2012,Nunavut,Wood product manufacturing,0,0
+2012,Ontario,All industries,634945200,682023200
+2012,Ontario,Forestry and logging,360200,438700
+2012,Ontario,Pulp and paper manufacturing,2423200,2992800
+2012,Ontario,Wood product manufacturing,1095900,1372400
+2012,Prince Edward Island,All industries,5090700,5560900
+2012,Prince Edward Island,Forestry and logging,3900,5200
+2012,Prince Edward Island,Pulp and paper manufacturing,19700,27200
+2012,Prince Edward Island,Wood product manufacturing,5300,6200
+2012,Quebec,All industries,328855500,355846900
+2012,Quebec,Forestry and logging,843700,851200
+2012,Quebec,Pulp and paper manufacturing,2677600,3187300
+2012,Quebec,Wood product manufacturing,1882600,2375800
+2012,Saskatchewan,All industries,73952200,68647400
+2012,Saskatchewan,Forestry and logging,52400,49000
+2012,Saskatchewan,Pulp and paper manufacturing,29300,51800
+2012,Saskatchewan,Wood product manufacturing,159700,144700
+2012,Yukon,All industries,2457600,2694100
+2012,Yukon,Forestry and logging,600,1100
+2012,Yukon,Pulp and paper manufacturing,0,0
+2012,Yukon,Wood product manufacturing,1300,1700
+2013,Canada,All industries,1781931000,1843482500
+2013,Canada,Forestry and logging,3391000,4598917
+2013,Canada,Pulp and paper manufacturing,7419000,8501917
+2013,Canada,Wood product manufacturing,8785000,10069917
+2013,Alberta,All industries,331477200,310990000
+2013,Alberta,Forestry and logging,313200,414400
+2013,Alberta,Pulp and paper manufacturing,494900,594900
+2013,Alberta,Wood product manufacturing,1434000,1773000
+2013,British Columbia,All industries,214088800,230140600
+2013,British Columbia,Forestry and logging,1644300,2532300
+2013,British Columbia,Pulp and paper manufacturing,1232000,1270200
+2013,British Columbia,Wood product manufacturing,3130700,3522800
+2013,Manitoba,All industries,57869000,60898900
+2013,Manitoba,Forestry and logging,25500,24000
+2013,Manitoba,Pulp and paper manufacturing,90400,124600
+2013,Manitoba,Wood product manufacturing,197300,192000
+2013,New Brunswick,All industries,29166000,31140700
+2013,New Brunswick,Forestry and logging,218800,244900
+2013,New Brunswick,Pulp and paper manufacturing,373200,469500
+2013,New Brunswick,Wood product manufacturing,325200,368200
+2013,Newfoundland and Labrador,All industries,32403800,30819000
+2013,Newfoundland and Labrador,Forestry and logging,50500,47700
+2013,Newfoundland and Labrador,Pulp and paper manufacturing,36400,62000
+2013,Newfoundland and Labrador,Wood product manufacturing,24300,23300
+2013,Northwest Territories,All industries,4353100,4127600
+2013,Northwest Territories,Forestry and logging,100,100
+2013,Northwest Territories,Pulp and paper manufacturing,0,0
+2013,Northwest Territories,Wood product manufacturing,300,300
+2013,Nova Scotia,All industries,35123600,37341600
+2013,Nova Scotia,Forestry and logging,55000,68300
+2013,Nova Scotia,Pulp and paper manufacturing,101300,133200
+2013,Nova Scotia,Wood product manufacturing,101600,121600
+2013,Nunavut,All industries,2270700,2531800
+2013,Nunavut,Forestry and logging,0,0
+2013,Nunavut,Pulp and paper manufacturing,0,0
+2013,Nunavut,Wood product manufacturing,0,0
+2013,Ontario,All industries,649490100,691682600
+2013,Ontario,Forestry and logging,323700,417200
+2013,Ontario,Pulp and paper manufacturing,2449200,2857900
+2013,Ontario,Wood product manufacturing,1269100,1482900
+2013,Prince Edward Island,All industries,5257000,5666500
+2013,Prince Edward Island,Forestry and logging,5100,5400
+2013,Prince Edward Island,Pulp and paper manufacturing,18400,21900
+2013,Prince Edward Island,Wood product manufacturing,5200,6400
+2013,Quebec,All industries,338213800,360384300
+2013,Quebec,Forestry and logging,715800,868000
+2013,Quebec,Pulp and paper manufacturing,2595700,2964500
+2013,Quebec,Wood product manufacturing,2102200,2447900
+2013,Saskatchewan,All industries,78937400,73062600
+2013,Saskatchewan,Forestry and logging,38100,34400
+2013,Saskatchewan,Pulp and paper manufacturing,28400,50600
+2013,Saskatchewan,Wood product manufacturing,194500,171100
+2013,Yukon,All industries,2556200,2734700
+2013,Yukon,Forestry and logging,600,1000
+2013,Yukon,Pulp and paper manufacturing,0,0
+2013,Yukon,Wood product manufacturing,400,1100
+2014,Canada,All industries,1867754000,1895881583
+2014,Canada,Forestry and logging,3728000,4783083
+2014,Canada,Pulp and paper manufacturing,7927000,9001000
+2014,Canada,Wood product manufacturing,8724000,10340083
+2014,Alberta,All industries,365191100,329203400
+2014,Alberta,Forestry and logging,359000,453300
+2014,Alberta,Pulp and paper manufacturing,654000,661200
+2014,Alberta,Wood product manufacturing,1277700,1703600
+2014,British Columbia,All industries,225863300,238305600
+2014,British Columbia,Forestry and logging,1721600,2490300
+2014,British Columbia,Pulp and paper manufacturing,1509300,1470500
+2014,British Columbia,Wood product manufacturing,3116700,3561200
+2014,Manitoba,All industries,59499700,62077400
+2014,Manitoba,Forestry and logging,32100,24600
+2014,Manitoba,Pulp and paper manufacturing,99100,132000
+2014,Manitoba,Wood product manufacturing,151900,165800
+2014,New Brunswick,All industries,29650000,31165000
+2014,New Brunswick,Forestry and logging,250300,269400
+2014,New Brunswick,Pulp and paper manufacturing,369500,505000
+2014,New Brunswick,Wood product manufacturing,353200,376300
+2014,Newfoundland and Labrador,All industries,32136700,30483200
+2014,Newfoundland and Labrador,Forestry and logging,56700,50000
+2014,Newfoundland and Labrador,Pulp and paper manufacturing,58300,89800
+2014,Newfoundland and Labrador,Wood product manufacturing,19300,20900
+2014,Northwest Territories,All industries,4656500,4323500
+2014,Northwest Territories,Forestry and logging,100,100
+2014,Northwest Territories,Pulp and paper manufacturing,0,0
+2014,Northwest Territories,Wood product manufacturing,300,300
+2014,Nova Scotia,All industries,36258300,37736200
+2014,Nova Scotia,Forestry and logging,66700,78700
+2014,Nova Scotia,Pulp and paper manufacturing,123800,137400
+2014,Nova Scotia,Wood product manufacturing,116500,129700
+2014,Nunavut,All industries,2350900,2500100
+2014,Nunavut,Forestry and logging,0,0
+2014,Nunavut,Pulp and paper manufacturing,0,0
+2014,Nunavut,Wood product manufacturing,0,0
+2014,Ontario,All industries,676838400,708787600
+2014,Ontario,Forestry and logging,383600,447400
+2014,Ontario,Pulp and paper manufacturing,2246900,2758500
+2014,Ontario,Wood product manufacturing,1323500,1617300
+2014,Prince Edward Island,All industries,5332000,5686400
+2014,Prince Edward Island,Forestry and logging,4800,5100
+2014,Prince Edward Island,Pulp and paper manufacturing,23000,24900
+2014,Prince Edward Island,Wood product manufacturing,5000,5800
+2014,Quebec,All industries,348098500,366088200
+2014,Quebec,Forestry and logging,814400,927600
+2014,Quebec,Pulp and paper manufacturing,2812800,3195800
+2014,Quebec,Wood product manufacturing,2167900,2535300
+2014,Saskatchewan,All industries,78506400,74424500
+2014,Saskatchewan,Forestry and logging,37700,38800
+2014,Saskatchewan,Pulp and paper manufacturing,30000,56800
+2014,Saskatchewan,Wood product manufacturing,191100,204600
+2014,Yukon,All industries,2650300,2752500
+2014,Yukon,Forestry and logging,1100,1100
+2014,Yukon,Pulp and paper manufacturing,0,0
+2014,Yukon,Wood product manufacturing,1300,2100
+2015,Canada,All industries,1856809000,1912118250
+2015,Canada,Forestry and logging,3985000,4838917
+2015,Canada,Pulp and paper manufacturing,8581000,9366917
+2015,Canada,Wood product manufacturing,8961000,10673833
+2015,Alberta,All industries,311906000,317733100
+2015,Alberta,Forestry and logging,392200,455200
+2015,Alberta,Pulp and paper manufacturing,667500,707000
+2015,Alberta,Wood product manufacturing,1287700,1676700
+2015,British Columbia,All industries,231725300,243845500
+2015,British Columbia,Forestry and logging,1831000,2481200
+2015,British Columbia,Pulp and paper manufacturing,1537700,1532400
+2015,British Columbia,Wood product manufacturing,3044200,3601800
+2015,Manitoba,All industries,60958600,62936300
+2015,Manitoba,Forestry and logging,29400,23600
+2015,Manitoba,Pulp and paper manufacturing,106700,137300
+2015,Manitoba,Wood product manufacturing,136300,147200
+2015,New Brunswick,All industries,30602600,31418400
+2015,New Brunswick,Forestry and logging,276600,296900
+2015,New Brunswick,Pulp and paper manufacturing,438100,549000
+2015,New Brunswick,Wood product manufacturing,369700,408500
+2015,Newfoundland and Labrador,All industries,28924400,30153100
+2015,Newfoundland and Labrador,Forestry and logging,60800,47700
+2015,Newfoundland and Labrador,Pulp and paper manufacturing,60500,78800
+2015,Newfoundland and Labrador,Wood product manufacturing,22800,23100
+2015,Northwest Territories,All industries,4597500,4367700
+2015,Northwest Territories,Forestry and logging,100,100
+2015,Northwest Territories,Pulp and paper manufacturing,0,0
+2015,Northwest Territories,Wood product manufacturing,300,300
+2015,Nova Scotia,All industries,37028100,38025300
+2015,Nova Scotia,Forestry and logging,69600,78600
+2015,Nova Scotia,Pulp and paper manufacturing,130200,152500
+2015,Nova Scotia,Wood product manufacturing,109300,130400
+2015,Nunavut,All industries,2380400,2490000
+2015,Nunavut,Forestry and logging,0,0
+2015,Nunavut,Pulp and paper manufacturing,0,0
+2015,Nunavut,Wood product manufacturing,0,0
+2015,Ontario,All industries,706836600,727609600
+2015,Ontario,Forestry and logging,426900,455000
+2015,Ontario,Pulp and paper manufacturing,2352300,2868400
+2015,Ontario,Wood product manufacturing,1472100,1708700
+2015,Prince Edward Island,All industries,5551800,5768500
+2015,Prince Edward Island,Forestry and logging,5300,5700
+2015,Prince Edward Island,Pulp and paper manufacturing,24400,26700
+2015,Prince Edward Island,Wood product manufacturing,4500,5200
+2015,Quebec,All industries,357758800,369733700
+2015,Quebec,Forestry and logging,852500,971800
+2015,Quebec,Pulp and paper manufacturing,3235300,3291000
+2015,Quebec,Wood product manufacturing,2314100,2725900
+2015,Saskatchewan,All industries,75306200,73866100
+2015,Saskatchewan,Forestry and logging,39900,41000
+2015,Saskatchewan,Pulp and paper manufacturing,28400,51100
+2015,Saskatchewan,Wood product manufacturing,199100,222300
+2015,Yukon,All industries,2541700,2543400
+2015,Yukon,Forestry and logging,900,1100
+2015,Yukon,Pulp and paper manufacturing,0,0
+2015,Yukon,Wood product manufacturing,800,1100
+2016,Canada,All industries,1886103000,1931730250
+2016,Canada,Forestry and logging,4086000,4579083
+2016,Canada,Pulp and paper manufacturing,8607000,9122000
+2016,Canada,Wood product manufacturing,9990000,11329833
+2016,Alberta,All industries,292561700,306174000
+2016,Alberta,Forestry and logging,402500,438800
+2016,Alberta,Pulp and paper manufacturing,582400,707400
+2016,Alberta,Wood product manufacturing,1400400,1693400
+2016,British Columbia,All industries,243317100,251036300
+2016,British Columbia,Forestry and logging,1984400,2275300
+2016,British Columbia,Pulp and paper manufacturing,1395700,1428700
+2016,British Columbia,Wood product manufacturing,3412700,3790200
+2016,Manitoba,All industries,62289700,63878200
+2016,Manitoba,Forestry and logging,24400,26800
+2016,Manitoba,Pulp and paper manufacturing,122200,132300
+2016,Manitoba,Wood product manufacturing,162800,179700
+2016,New Brunswick,All industries,31222100,31708500
+2016,New Brunswick,Forestry and logging,286900,313100
+2016,New Brunswick,Pulp and paper manufacturing,495700,583200
+2016,New Brunswick,Wood product manufacturing,399500,452900
+2016,Newfoundland and Labrador,All industries,29005200,30619000
+2016,Newfoundland and Labrador,Forestry and logging,55300,47100
+2016,Newfoundland and Labrador,Pulp and paper manufacturing,57900,71400
+2016,Newfoundland and Labrador,Wood product manufacturing,25500,25900
+2016,Northwest Territories,All industries,4303700,4319400
+2016,Northwest Territories,Forestry and logging,100,100
+2016,Northwest Territories,Pulp and paper manufacturing,0,0
+2016,Northwest Territories,Wood product manufacturing,200,300
+2016,Nova Scotia,All industries,37795500,38542000
+2016,Nova Scotia,Forestry and logging,67500,75900
+2016,Nova Scotia,Pulp and paper manufacturing,119800,138400
+2016,Nova Scotia,Wood product manufacturing,139400,137600
+2016,Nunavut,All industries,2536300,2623600
+2016,Nunavut,Forestry and logging,0,0
+2016,Nunavut,Pulp and paper manufacturing,0,0
+2016,Nunavut,Wood product manufacturing,0,0
+2016,Ontario,All industries,733760700,743976200
+2016,Ontario,Forestry and logging,420700,467100
+2016,Ontario,Pulp and paper manufacturing,2564900,2820700
+2016,Ontario,Wood product manufacturing,1677500,1866900
+2016,Prince Edward Island,All industries,5803400,5892000
+2016,Prince Edward Island,Forestry and logging,5400,6300
+2016,Prince Edward Island,Pulp and paper manufacturing,27500,29000
+2016,Prince Edward Island,Wood product manufacturing,5700,5900
+2016,Quebec,All industries,368634600,375695600
+2016,Quebec,Forestry and logging,793600,891100
+2016,Quebec,Pulp and paper manufacturing,3191100,3181600
+2016,Quebec,Wood product manufacturing,2553500,2931900
+2016,Saskatchewan,All industries,71463800,73627800
+2016,Saskatchewan,Forestry and logging,44500,48800
+2016,Saskatchewan,Pulp and paper manufacturing,49900,73200
+2016,Saskatchewan,Wood product manufacturing,213000,237800
+2016,Yukon,All industries,2691400,2726900
+2016,Yukon,Forestry and logging,900,1100
+2016,Yukon,Pulp and paper manufacturing,0,0
+2016,Yukon,Wood product manufacturing,200,300
+2017,Canada,All industries,1991534000,1991530750
+2017,Canada,Forestry and logging,4515000,4515000
+2017,Canada,Pulp and paper manufacturing,8837000,8837000
+2017,Canada,Wood product manufacturing,11122000,11121000
+2017,Alberta,All industries,319212000,319212000
+2017,Alberta,Forestry and logging,429500,429500
+2017,Alberta,Pulp and paper manufacturing,623800,623800
+2017,Alberta,Wood product manufacturing,1706600,1706600
+2017,British Columbia,All industries,260220300,260220300
+2017,British Columbia,Forestry and logging,2318900,2318900
+2017,British Columbia,Pulp and paper manufacturing,1312700,1312700
+2017,British Columbia,Wood product manufacturing,3665400,3665400
+2017,Manitoba,All industries,66007100,66007100
+2017,Manitoba,Forestry and logging,22300,22300
+2017,Manitoba,Pulp and paper manufacturing,137600,137600
+2017,Manitoba,Wood product manufacturing,166400,166400
+2017,New Brunswick,All industries,32456400,32456400
+2017,New Brunswick,Forestry and logging,302600,302600
+2017,New Brunswick,Pulp and paper manufacturing,540600,540600
+2017,New Brunswick,Wood product manufacturing,452500,452500
+2017,Newfoundland and Labrador,All industries,31002600,31002600
+2017,Newfoundland and Labrador,Forestry and logging,50100,50100
+2017,Newfoundland and Labrador,Pulp and paper manufacturing,63700,63700
+2017,Newfoundland and Labrador,Wood product manufacturing,22100,22100
+2017,Northwest Territories,All industries,4476600,4476600
+2017,Northwest Territories,Forestry and logging,100,100
+2017,Northwest Territories,Pulp and paper manufacturing,0,0
+2017,Northwest Territories,Wood product manufacturing,200,200
+2017,Nova Scotia,All industries,39329100,39329100
+2017,Nova Scotia,Forestry and logging,73900,73900
+2017,Nova Scotia,Pulp and paper manufacturing,136200,136200
+2017,Nova Scotia,Wood product manufacturing,123600,123600
+2017,Nunavut,All industries,2969700,2969700
+2017,Nunavut,Forestry and logging,0,0
+2017,Nunavut,Pulp and paper manufacturing,0,0
+2017,Nunavut,Wood product manufacturing,0,0
+2017,Ontario,All industries,764464800,764464800
+2017,Ontario,Forestry and logging,439900,439900
+2017,Ontario,Pulp and paper manufacturing,2828100,2828100
+2017,Ontario,Wood product manufacturing,1902900,1902900
+2017,Prince Edward Island,All industries,6156500,6156500
+2017,Prince Edward Island,Forestry and logging,5200,5200
+2017,Prince Edward Island,Pulp and paper manufacturing,29300,29300
+2017,Prince Edward Island,Wood product manufacturing,5600,5600
+2017,Quebec,All industries,386407500,386407500
+2017,Quebec,Forestry and logging,824100,824100
+2017,Quebec,Pulp and paper manufacturing,3088000,3088000
+2017,Quebec,Wood product manufacturing,2837700,2837700
+2017,Saskatchewan,All industries,75302100,75302100
+2017,Saskatchewan,Forestry and logging,47400,47400
+2017,Saskatchewan,Pulp and paper manufacturing,76500,76500
+2017,Saskatchewan,Wood product manufacturing,238200,238200
+2017,Yukon,All industries,2781000,2781000
+2017,Yukon,Forestry and logging,800,800
+2017,Yukon,Pulp and paper manufacturing,0,0
+2017,Yukon,Wood product manufacturing,300,300
+2018,Canada,All industries,2083379000,2048172000
+2018,Canada,Forestry and logging,4816000,4683000
+2018,Canada,Pulp and paper manufacturing,10469000,8617000
+2018,Canada,Wood product manufacturing,11862000,11004000
+2018,Alberta,All industries,332659400,325837800
+2018,Alberta,Forestry and logging,454300,439400
+2018,Alberta,Pulp and paper manufacturing,712900,589800
+2018,Alberta,Wood product manufacturing,1821700,1674800
+2018,British Columbia,All industries,274392400,270106400
+2018,British Columbia,Forestry and logging,2524400,2432900
+2018,British Columbia,Pulp and paper manufacturing,1776300,1244700
+2018,British Columbia,Wood product manufacturing,3798900,3394900
+2018,Manitoba,All industries,68029300,67372800
+2018,Manitoba,Forestry and logging,24200,24400
+2018,Manitoba,Pulp and paper manufacturing,144800,138400
+2018,Manitoba,Wood product manufacturing,175000,161600
+2018,New Brunswick,All industries,33691100,32900500
+2018,New Brunswick,Forestry and logging,273000,271900
+2018,New Brunswick,Pulp and paper manufacturing,633400,515800
+2018,New Brunswick,Wood product manufacturing,572700,519200
+2018,Newfoundland and Labrador,All industries,31836300,30128600
+2018,Newfoundland and Labrador,Forestry and logging,49100,49200
+2018,Newfoundland and Labrador,Pulp and paper manufacturing,82400,58000
+2018,Newfoundland and Labrador,Wood product manufacturing,27500,25100
+2018,Northwest Territories,All industries,4550900,4541000
+2018,Northwest Territories,Forestry and logging,100,100
+2018,Northwest Territories,Pulp and paper manufacturing,0,0
+2018,Northwest Territories,Wood product manufacturing,100,100
+2018,Nova Scotia,All industries,40740000,40021600
+2018,Nova Scotia,Forestry and logging,74500,71200
+2018,Nova Scotia,Pulp and paper manufacturing,168100,135200
+2018,Nova Scotia,Wood product manufacturing,147900,137400
+2018,Nunavut,All industries,3097600,3105800
+2018,Nunavut,Forestry and logging,0,0
+2018,Nunavut,Pulp and paper manufacturing,0,0
+2018,Nunavut,Wood product manufacturing,0,0
+2018,Ontario,All industries,800375600,789531600
+2018,Ontario,Forestry and logging,486900,482500
+2018,Ontario,Pulp and paper manufacturing,3211000,2825500
+2018,Ontario,Wood product manufacturing,1901400,1817200
+2018,Prince Edward Island,All industries,6326000,6267300
+2018,Prince Edward Island,Forestry and logging,4700,4700
+2018,Prince Edward Island,Pulp and paper manufacturing,26400,24400
+2018,Prince Edward Island,Wood product manufacturing,6300,5100
+2018,Quebec,All industries,405613600,398857900
+2018,Quebec,Forestry and logging,868000,849200
+2018,Quebec,Pulp and paper manufacturing,3604100,3027800
+2018,Quebec,Wood product manufacturing,3151900,2976700
+2018,Saskatchewan,All industries,78367600,76509800
+2018,Saskatchewan,Forestry and logging,56500,54100
+2018,Saskatchewan,Pulp and paper manufacturing,110100,74500
+2018,Saskatchewan,Wood product manufacturing,258100,241700
+2018,Yukon,All industries,2881100,2857800
+2018,Yukon,Forestry and logging,800,900
+2018,Yukon,Pulp and paper manufacturing,0,0
+2018,Yukon,Wood product manufacturing,200,200
+2019,Canada,All industries,2161924000,2089589917
+2019,Canada,Forestry and logging,4278000,4056000
+2019,Canada,Pulp and paper manufacturing,9217000,7980000
+2019,Canada,Wood product manufacturing,9335000,10989000
+2019,Alberta,All industries,339674400,326213100
+2019,Alberta,Forestry and logging,415200,414400
+2019,Alberta,Pulp and paper manufacturing,631700,575300
+2019,Alberta,Wood product manufacturing,1401500,1756700
+2019,British Columbia,All industries,286182100,277848200
+2019,British Columbia,Forestry and logging,2222300,1881500
+2019,British Columbia,Pulp and paper manufacturing,1200100,1184400
+2019,British Columbia,Wood product manufacturing,2065400,2759700
+2019,Manitoba,All industries,69243200,68085800
+2019,Manitoba,Forestry and logging,23800,24100
+2019,Manitoba,Pulp and paper manufacturing,141900,130600
+2019,Manitoba,Wood product manufacturing,184100,177100
+2019,New Brunswick,All industries,34495100,33347600
+2019,New Brunswick,Forestry and logging,241000,261000
+2019,New Brunswick,Pulp and paper manufacturing,550800,501100
+2019,New Brunswick,Wood product manufacturing,521400,564100
+2019,Newfoundland and Labrador,All industries,33159500,31306800
+2019,Newfoundland and Labrador,Forestry and logging,43400,46500
+2019,Newfoundland and Labrador,Pulp and paper manufacturing,72200,48600
+2019,Newfoundland and Labrador,Wood product manufacturing,28500,31000
+2019,Northwest Territories,All industries,4502800,4347000
+2019,Northwest Territories,Forestry and logging,100,100
+2019,Northwest Territories,Pulp and paper manufacturing,0,0
+2019,Northwest Territories,Wood product manufacturing,200,200
+2019,Nova Scotia,All industries,42703500,41404300
+2019,Nova Scotia,Forestry and logging,72400,69800
+2019,Nova Scotia,Pulp and paper manufacturing,171500,139100
+2019,Nova Scotia,Wood product manufacturing,133500,160400
+2019,Nunavut,All industries,3507100,3346400
+2019,Nunavut,Forestry and logging,0,0
+2019,Nunavut,Pulp and paper manufacturing,0,0
+2019,Nunavut,Wood product manufacturing,0,0
+2019,Ontario,All industries,833628800,807274500
+2019,Ontario,Forestry and logging,481700,473000
+2019,Ontario,Pulp and paper manufacturing,2938900,2526600
+2019,Ontario,Wood product manufacturing,1903400,2224800
+2019,Prince Edward Island,All industries,6778200,6559400
+2019,Prince Edward Island,Forestry and logging,5200,5800
+2019,Prince Edward Island,Pulp and paper manufacturing,28800,25400
+2019,Prince Edward Island,Wood product manufacturing,6700,5800
+2019,Quebec,All industries,425276700,410746600
+2019,Quebec,Forestry and logging,725300,843600
+2019,Quebec,Pulp and paper manufacturing,3396400,2795200
+2019,Quebec,Wood product manufacturing,2891100,3033100
+2019,Saskatchewan,All industries,79001800,75969800
+2019,Saskatchewan,Forestry and logging,47000,43200
+2019,Saskatchewan,Pulp and paper manufacturing,84900,69100
+2019,Saskatchewan,Wood product manufacturing,199500,253800
+2019,Yukon,All industries,2959900,2825400
+2019,Yukon,Forestry and logging,800,1100
+2019,Yukon,Pulp and paper manufacturing,0,0
+2019,Yukon,Wood product manufacturing,0,0
+2020,Canada,All industries,2083990000,1992159167
+2020,Canada,Forestry and logging,4035000,3702000
+2020,Canada,Pulp and paper manufacturing,8112000,7315000
+2020,Canada,Wood product manufacturing,11882000,10422000
+2020,Alberta,All industries,290154000,300801400
+2020,Alberta,Forestry and logging,457500,354800
+2020,Alberta,Pulp and paper manufacturing,509300,579300
+2020,Alberta,Wood product manufacturing,2053300,1889000
+2020,British Columbia,All industries,287201800,269189900
+2020,British Columbia,Forestry and logging,1943700,1847300
+2020,British Columbia,Pulp and paper manufacturing,977100,1097100
+2020,British Columbia,Wood product manufacturing,3052500,2552900
+2020,Manitoba,All industries,67965100,65309900
+2020,Manitoba,Forestry and logging,21400,17500
+2020,Manitoba,Pulp and paper manufacturing,154800,142400
+2020,Manitoba,Wood product manufacturing,198100,183600
+2020,New Brunswick,All industries,33820300,32134500
+2020,New Brunswick,Forestry and logging,250800,228100
+2020,New Brunswick,Pulp and paper manufacturing,544500,538200
+2020,New Brunswick,Wood product manufacturing,655900,551200
+2020,Newfoundland and Labrador,All industries,29626500,29848000
+2020,Newfoundland and Labrador,Forestry and logging,38900,37000
+2020,Newfoundland and Labrador,Pulp and paper manufacturing,52600,39900
+2020,Newfoundland and Labrador,Wood product manufacturing,31500,29200
+2020,Northwest Territories,All industries,4017500,3968300
+2020,Northwest Territories,Forestry and logging,100,100
+2020,Northwest Territories,Pulp and paper manufacturing,0,0
+2020,Northwest Territories,Wood product manufacturing,300,200
+2020,Nova Scotia,All industries,42217800,39525300
+2020,Nova Scotia,Forestry and logging,60800,52100
+2020,Nova Scotia,Pulp and paper manufacturing,129200,114500
+2020,Nova Scotia,Wood product manufacturing,174600,174300
+2020,Nunavut,All industries,3993000,3417900
+2020,Nunavut,Forestry and logging,0,0
+2020,Nunavut,Pulp and paper manufacturing,0,0
+2020,Nunavut,Wood product manufacturing,0,0
+2020,Ontario,All industries,820962400,769942000
+2020,Ontario,Forestry and logging,474000,423000
+2020,Ontario,Pulp and paper manufacturing,2610200,2266300
+2020,Ontario,Wood product manufacturing,2155600,2195200
+2020,Prince Edward Island,All industries,6810300,6366400
+2020,Prince Edward Island,Forestry and logging,4800,5200
+2020,Prince Edward Island,Pulp and paper manufacturing,30500,24500
+2020,Prince Edward Island,Wood product manufacturing,7100,5200
+2020,Quebec,All industries,420699200,391038500
+2020,Quebec,Forestry and logging,733100,656800
+2020,Quebec,Pulp and paper manufacturing,3028900,2535900
+2020,Quebec,Wood product manufacturing,3203900,2686500
+2020,Saskatchewan,All industries,72671900,72791300
+2020,Saskatchewan,Forestry and logging,49400,37900
+2020,Saskatchewan,Pulp and paper manufacturing,74800,72800
+2020,Saskatchewan,Wood product manufacturing,349000,288400
+2020,Yukon,All industries,3131200,2875000
+2020,Yukon,Forestry and logging,600,700
+2020,Yukon,Pulp and paper manufacturing,0,0
+2020,Yukon,Wood product manufacturing,0,0
+2021,Canada,All industries,2500429459,2098930167
+2021,Canada,Forestry and logging,5412788,3946000
+2021,Canada,Pulp and paper manufacturing,8692900,7445000
+2021,Canada,Wood product manufacturing,18416165,11569000
+2021,Alberta,All industries,345857683,314850000
+2021,Alberta,Forestry and logging,696667,429300
+2021,Alberta,Pulp and paper manufacturing,571787,617700
+2021,Alberta,Wood product manufacturing,3234214,2131000
+2021,British Columbia,All industries,350101159,288151000
+2021,British Columbia,Forestry and logging,2463646,1860500
+2021,British Columbia,Pulp and paper manufacturing,1130531,1205600
+2021,British Columbia,Wood product manufacturing,4619176,2766800
+2021,Manitoba,All industries,78542428,66275400
+2021,Manitoba,Forestry and logging,30164,19600
+2021,Manitoba,Pulp and paper manufacturing,166880,145800
+2021,Manitoba,Wood product manufacturing,321041,213100
+2021,New Brunswick,All industries,40600632,33875200
+2021,New Brunswick,Forestry and logging,350505,253300
+2021,New Brunswick,Pulp and paper manufacturing,590560,554400
+2021,New Brunswick,Wood product manufacturing,990736,596300
+2021,Newfoundland and Labrador,All industries,34054965,30128000
+2021,Newfoundland and Labrador,Forestry and logging,52661,39800
+2021,Newfoundland and Labrador,Pulp and paper manufacturing,64821,46700
+2021,Newfoundland and Labrador,Wood product manufacturing,43229,28700
+2021,Northwest Territories,All industries,4767409,4135100
+2021,Northwest Territories,Forestry and logging,126,100
+2021,Northwest Territories,Pulp and paper manufacturing,,0
+2021,Northwest Territories,Wood product manufacturing,209,100
+2021,Nova Scotia,All industries,50982902,41914000
+2021,Nova Scotia,Forestry and logging,77692,52900
+2021,Nova Scotia,Pulp and paper manufacturing,140074,117900
+2021,Nova Scotia,Wood product manufacturing,261969,187300
+2021,Nunavut,All industries,4968410,3734500
+2021,Nunavut,Forestry and logging,,0
+2021,Nunavut,Pulp and paper manufacturing,,0
+2021,Nunavut,Wood product manufacturing,,0
+2021,Ontario,All industries,983132856,809658600
+2021,Ontario,Forestry and logging,604008,428300
+2021,Ontario,Pulp and paper manufacturing,2642651,2179200
+2021,Ontario,Wood product manufacturing,3303314,2409300
+2021,Prince Edward Island,All industries,8405190,6899700
+2021,Prince Edward Island,Forestry and logging,5809,5000
+2021,Prince Edward Island,Pulp and paper manufacturing,28705,21900
+2021,Prince Edward Island,Wood product manufacturing,10676,5600
+2021,Quebec,All industries,510476148,416656600
+2021,Quebec,Forestry and logging,1084156,771800
+2021,Quebec,Pulp and paper manufacturing,3253009,2586700
+2021,Quebec,Wood product manufacturing,4910569,2949000
+2021,Saskatchewan,All industries,82239175,72334700
+2021,Saskatchewan,Forestry and logging,82675,50400
+2021,Saskatchewan,Pulp and paper manufacturing,66424,61400
+2021,Saskatchewan,Wood product manufacturing,663185,392500
+2021,Yukon,All industries,3867053,3117900
+2021,Yukon,Forestry and logging,755,700
+2021,Yukon,Pulp and paper manufacturing,,0
+2021,Yukon,Wood product manufacturing,,400
+2022,Canada,All industries,2929777858,2180311167
+2022,Canada,Forestry and logging,6215102,3653000
+2022,Canada,Pulp and paper manufacturing,9667002,7244000
+2022,Canada,Wood product manufacturing,18620632,12074000
+2022,Alberta,All industries,360675933,331488800
+2022,Alberta,Forestry and logging,680521,425500
+2022,Alberta,Pulp and paper manufacturing,598062,595200
+2022,Alberta,Wood product manufacturing,2261168,2147200
+2022,British Columbia,All industries,360132845,299250400
+2022,British Columbia,Forestry and logging,2280571,1747500
+2022,British Columbia,Pulp and paper manufacturing,1205095,1183900
+2022,British Columbia,Wood product manufacturing,3178325,2743700
+2022,Manitoba,All industries,80387881,68483200
+2022,Manitoba,Forestry and logging,28060,18500
+2022,Manitoba,Pulp and paper manufacturing,184129,148200
+2022,Manitoba,Wood product manufacturing,251714,240800
+2022,New Brunswick,All industries,40754495,34329700
+2022,New Brunswick,Forestry and logging,342030,250800
+2022,New Brunswick,Pulp and paper manufacturing,620004,536200
+2022,New Brunswick,Wood product manufacturing,680174,590000
+2022,Newfoundland and Labrador,All industries,33241175,29690100
+2022,Newfoundland and Labrador,Forestry and logging,48509,37200
+2022,Newfoundland and Labrador,Pulp and paper manufacturing,81814,54300
+2022,Newfoundland and Labrador,Wood product manufacturing,31876,30500
+2022,Northwest Territories,All industries,4857556,4253700
+2022,Northwest Territories,Forestry and logging,124,100
+2022,Northwest Territories,Pulp and paper manufacturing,,0
+2022,Northwest Territories,Wood product manufacturing,145,100
+2022,Nova Scotia,All industries,52033991,43188400
+2022,Nova Scotia,Forestry and logging,73675,50900
+2022,Nova Scotia,Pulp and paper manufacturing,161335,125100
+2022,Nova Scotia,Wood product manufacturing,164205,169200
+2022,Nunavut,All industries,4930304,3741400
+2022,Nunavut,Forestry and logging,,0
+2022,Nunavut,Pulp and paper manufacturing,,0
+2022,Nunavut,Wood product manufacturing,,0
+2022,Ontario,All industries,1009681055,839497400
+2022,Ontario,Forestry and logging,539546,388200
+2022,Ontario,Pulp and paper manufacturing,2717068,2064100
+2022,Ontario,Wood product manufacturing,2542160,2672200
+2022,Prince Edward Island,All industries,8578975,7109900
+2022,Prince Edward Island,Forestry and logging,5725,5000
+2022,Prince Edward Island,Pulp and paper manufacturing,31444,22100
+2022,Prince Edward Island,Wood product manufacturing,8069,6100
+2022,Quebec,All industries,519698384,428252200
+2022,Quebec,Forestry and logging,873147,630700
+2022,Quebec,Pulp and paper manufacturing,3472965,2544100
+2022,Quebec,Wood product manufacturing,3581506,3099800
+2022,Saskatchewan,All industries,86343277,76672900
+2022,Saskatchewan,Forestry and logging,76630,47400
+2022,Saskatchewan,Pulp and paper manufacturing,69989,59600
+2022,Saskatchewan,Wood product manufacturing,421120,359200
+2022,Yukon,All industries,4051077,3297600
+2022,Yukon,Forestry and logging,638,600
+2022,Yukon,Pulp and paper manufacturing,,0
+2022,Yukon,Wood product manufacturing,,300
+2023,Canada,All industries,2915028517,2208311833
+2023,Canada,Forestry and logging,4884653,3390000
+2023,Canada,Pulp and paper manufacturing,8812033,6509000
+2023,Canada,Wood product manufacturing,13331246,11209000
+2023,Alberta,All industries,318670339,336299900
+2023,Alberta,Forestry and logging,409956,375400
+2023,Alberta,Pulp and paper manufacturing,447915,502200
+2023,Alberta,Wood product manufacturing,1613240,1924500
+2023,British Columbia,All industries,318749751,304127200
+2023,British Columbia,Forestry and logging,1386465,1555900
+2023,British Columbia,Pulp and paper manufacturing,851936,942900
+2023,British Columbia,Wood product manufacturing,2276965,2469300
+2023,Manitoba,All industries,70936135,69389600
+2023,Manitoba,Forestry and logging,21024,20300
+2023,Manitoba,Pulp and paper manufacturing,147008,133300
+2023,Manitoba,Wood product manufacturing,227411,273300
+2023,New Brunswick,All industries,35970916,34792000
+2023,New Brunswick,Forestry and logging,229445,246400
+2023,New Brunswick,Pulp and paper manufacturing,544282,530300
+2023,New Brunswick,Wood product manufacturing,512522,558500
+2023,Newfoundland and Labrador,All industries,28228180,28950200
+2023,Newfoundland and Labrador,Forestry and logging,32143,36100
+2023,Newfoundland and Labrador,Pulp and paper manufacturing,69144,51700
+2023,Newfoundland and Labrador,Wood product manufacturing,25374,30500
+2023,Northwest Territories,All industries,4227645,4250900
+2023,Northwest Territories,Forestry and logging,85,100
+2023,Northwest Territories,Pulp and paper manufacturing,,0
+2023,Northwest Territories,Wood product manufacturing,116,100
+2023,Nova Scotia,All industries,45921339,43765100
+2023,Nova Scotia,Forestry and logging,47440,48000
+2023,Nova Scotia,Pulp and paper manufacturing,116763,102000
+2023,Nova Scotia,Wood product manufacturing,131019,169600
+2023,Nunavut,All industries,4439765,3868600
+2023,Nunavut,Forestry and logging,,0
+2023,Nunavut,Pulp and paper manufacturing,,0
+2023,Nunavut,Wood product manufacturing,,0
+2023,Ontario,All industries,893187395,852729200
+2023,Ontario,Forestry and logging,385490,406200
+2023,Ontario,Pulp and paper manufacturing,2176562,1862800
+2023,Ontario,Wood product manufacturing,2019052,2666200
+2023,Prince Edward Island,All industries,7636593,7267100
+2023,Prince Edward Island,Forestry and logging,3909,5000
+2023,Prince Edward Island,Pulp and paper manufacturing,24754,19600
+2023,Prince Edward Island,Wood product manufacturing,6528,6200
+2023,Quebec,All industries,453624911,429218600
+2023,Quebec,Forestry and logging,580598,614200
+2023,Quebec,Pulp and paper manufacturing,2903759,2396400
+2023,Quebec,Wood product manufacturing,2576027,2800900
+2023,Saskatchewan,All industries,76398158,77898600
+2023,Saskatchewan,Forestry and logging,40733,36900
+2023,Saskatchewan,Pulp and paper manufacturing,52535,50400
+2023,Saskatchewan,Wood product manufacturing,262799,281600
+2023,Yukon,All industries,3584346,3350200
+2023,Yukon,Forestry and logging,436,600
+2023,Yukon,Pulp and paper manufacturing,,0
+2023,Yukon,Wood product manufacturing,,300
